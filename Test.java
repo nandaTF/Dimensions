@@ -2,4 +2,4 @@
 # to check the triggering build
 # checking again
 # Comminting and updated
-# VNR
+# Checking the emial notification mails.
